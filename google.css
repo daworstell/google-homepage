@@ -1,0 +1,43 @@
+.container {
+    background-color: black;
+
+}
+
+li {
+    display: inline;
+    float: right;
+    padding: 10px;
+    text
+}
+#edit-art {
+    height: 16px;
+    width: 16px;
+}
+h1 {
+    display: block;
+    position: absolute;
+    right: 45%;
+    bottom: 60%;
+
+}
+#search-bar {
+    position: absolute;
+    right: 40%;
+    bottom: 57%;
+    height: 32px;
+    
+}
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(66, 133, 244);
+    border-color: rgb(66, 133, 244);
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    border-radius: 500px;
+    height: 32px;
+    align-items: center;
+}
+footer {
+ 
+}
